@@ -26,3 +26,7 @@
 * https://impfdashboard.de/daten
 * https://github.com/owid/covid-19-data/tree/master/public/data 
 * https://github.com/OxCGRT/covid-policy-tracker
+Kreisgrenzen:
+https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/esri-de-content::kreisgrenzen-2019/explore?location=51.164250%2C10.454050%2C6.80&showTable=true
+Kreisinzidenzen:
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab.html
